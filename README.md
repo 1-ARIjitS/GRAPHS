@@ -4,3 +4,4 @@ The algorithms included are ->
 - Adjacnecy List implementation of a graph
 - Adjacnecy Matrix implementation of a graph
 - Breadth First Search (BFS) of a graph
+- Depth First Search (DFS) of a graph
