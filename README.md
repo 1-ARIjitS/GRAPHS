@@ -1,5 +1,6 @@
 # GRAPHS
 This is the repository for implementation of all basic graph algorithms.<br>
 The algorithms included are ->
-- adjacnecy list implementation of a graph
-- adjacnecy matrix implementation of a graph
+- Adjacnecy List implementation of a graph
+- Adjacnecy Matrix implementation of a graph
+- Breadth First Search (BFS) of a graph
