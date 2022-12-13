@@ -117,7 +117,7 @@ int main()
 
     //breadth first search
 
-    unordered_map<int, bool> visited;
+    /*unordered_map<int, bool> visited;
     vector<int>bfs;
     for(int i=0;i<n;i++)
     {
@@ -127,11 +127,12 @@ int main()
         }
     }
     cout<<"the breadth first search of the above graph is-"<<endl;
-    g.print_bfs(bfs);
+    g.print_bfs(bfs);*/
 
     // cycle detection in undirected graph using BFS
 
     bool is_cycle;
+    unordered_map<int, bool> visited;
     for(int i=0;i<n;i++)
     {
         if(!visited[i])
