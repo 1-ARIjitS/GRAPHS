@@ -6,3 +6,4 @@ The algorithms included are ->
 - Breadth First Search (BFS) of a graph
 - Depth First Search (DFS) of a graph
 - Cycle Detection in Undirected Graph using Breadth First Search (BFS)
+- Cycle Detection in Undirected Graph using Depth First Search (DFS)
