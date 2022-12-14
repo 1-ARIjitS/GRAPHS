@@ -11,7 +11,6 @@ int main()
     cin>>n;
     cout<<"Enter the number of edges-"<<endl;
     cin>>m;
-
     //creation of adjacency matrix
     int adj[n][n]={0};
 
