@@ -13,7 +13,6 @@ public:
        //direction=1 -> directed
 
        //create an edge between u to v
-
        adj[u].push_back(v);
        if(direction==0)
        {
